@@ -15,7 +15,7 @@ Validação de regras de negócio
 
 Organização de código em camada
 
-Estrutura do projeto
+Estrutura do projeto:
 
 O sistema é composto por classes responsáveis por representar regras e possíveis erros do sistema.
 
